@@ -18,3 +18,8 @@ Demo使用了SpringBoot 2.2.11版本，具体使用版本基本不受版本限�
 ScanController中使用了Slf4j日志组件，如果不需要则可删除，其中调用的签名代码来自腾讯给出的Demo，包含php、java、nodejs以及python的示例代码供参考，切记要对获取的accesstoken以及jsapi_ticket进行缓存以确保不会触发频率限制。
 
 http://demo.open.weixin.qq.com/jssdk/sample.zip
+
+
+#### 实现效果
+
+![](https://s1.ax1x.com/2020/11/07/B5DdP0.gif)
