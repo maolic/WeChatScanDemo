@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+wx:
+  appId: wx1111222233334444
+  appSecret: 11112222333344445555666677778888
+  jsSafeDomain: http://example.com
