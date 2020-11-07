@@ -30,6 +30,9 @@ public class ScanController {
 
     private Gson gson = new Gson();
 
+    @Autowired
+    private WxConfig wxConfig;
+
     public static String sentGet(String url){
         String result = "";
         BufferedReader in = null;
@@ -73,9 +76,6 @@ public class ScanController {
         return result;
 
     }
-
-    @Autowired
-    private WxConfig wxConfig;
 
     @GetMapping("/scan")
     public ModelAndView scan(){

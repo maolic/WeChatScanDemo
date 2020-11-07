@@ -2,6 +2,6 @@ server:
   port: 8080
 
 wx:
-  appId: wx1111222233334444
-  appSecret: 11112222333344445555666677778888
-  jsSafeDomain: http://example.com
+  appId: wx08304e1a8ff2a7cb
+  appSecret: 4be93ab16b9e19e194b2f108bb1eaf78
+  jsSafeDomain: http://mlc.natapp1.cc
