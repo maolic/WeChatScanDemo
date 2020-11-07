@@ -19,7 +19,10 @@ ScanController中使用了Slf4j日志组件，如果不需要则可删除，其�
 
 http://demo.open.weixin.qq.com/jssdk/sample.zip
 
-
 #### 实现效果
 
 ![](https://s1.ax1x.com/2020/11/07/B5DdP0.gif)
+
+#### Demo在线体验
+支持扫描条形码与二维码，内容输出至input文本框内。
+<a href="http://scan.vpsair.com/scan" target="_blank">http://scan.vpsair.com/scan</a>
